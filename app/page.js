@@ -39,8 +39,6 @@ function Home() {
           src="/dog2.webp" // Path to the image in the public folder
           alt="Dog Photoshoot" 
           className="w-full md:w-1/3 h-auto object-cover rounded-lg"
-          width={500} // Set a fixed width in pixels
-          height={300} // Set a fixed height in pixels
         />
           <div className="text-white text-center md:text-left md:ml-8">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Why Us?</h2>
