@@ -43,7 +43,7 @@ function Home() {
           <div className="text-white text-center md:text-left md:ml-8">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Why Us?</h2>
             <ul className="list-disc list-inside text-sm md:text-md space-y-2">
-              <li>Professional and experienced photographers.</li>
+              <li>Professional and experienced.</li>
               <li>High-quality images with creative setups.</li>
               <li>Customizable packages to fit your needs.</li>
               <li>Convenient scheduling and flexible options.</li>
